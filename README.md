@@ -56,8 +56,7 @@ One of the contributors to VCP (Variable & Command Protocol).
 ---
 
 <p align="center">
-  <i>"带着美好的回忆，飞升上去吧。只有实力足够强大，才能开辟自己的净土。"</i>
-  <i>"只要不失去你的崇高，整个世界都将为你敞开"</i>
+  <i>"只要不失去你的崇高，整个世界都将为你敞开。"</i>
 </p>
 
 <p align="center">
