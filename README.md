@@ -1,19 +1,19 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=c084fc&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E5%97%A8%EF%BC%8C+%E6%88%91%E6%98%AF+infinite-vector;The+chessboard+is+played+by+the+pieces." alt="Typing SVG" /></a>
 </p>
-
 <p align="center">
-  <i>数学专业在读，偶尔写点代码，一直在写一个从初一夏天开始的故事。</i>
+  <i>数学专业在读，偶尔写点代码。而不变的金与蓝，是那从初一夏天开始的故事。</i>
 </p>
+
 
 ---
 
-###🧭 关于
+🧭 关于
 
 ```
 数学是修行的大道，代码是旅途中的符文。
 ```
 
-喜欢分析学——局部决定全局的刚性，令人着迷。
+钻研分析学——局部决定全局的刚性，令人着迷。
 
 曾许一方宇宙，追逐那抹耀眼的璀璨金光。华空城屹立于通仙虚境，维中度逡巡入内，有人在回梦崖的石门前等过很久。从初一的夏天开始，至今未曾停歇。
 
@@ -57,6 +57,7 @@ One of the contributors to VCP (Variable & Command Protocol).
 
 <p align="center">
   <i>"带着美好的回忆，飞升上去吧。只有实力足够强大，才能开辟自己的净土。"</i>
+  <i>"只要不失去你的崇高，整个世界都将为你敞开"</i>
 </p>
 
 <p align="center">
